@@ -1,3 +1,4 @@
+[output.pdf](https://github.com/user-attachments/files/20521738/output.pdf)
 # AI-ML-INTERNSHIP
 
 task -4
@@ -35,3 +36,4 @@ ___________________________________
 .Adjust threshold based on           performance trade-offs
 ___________________________________
 7.🧮 Explain the sigmoid function
+[output.pdf](https://github.com/user-attachments/files/20521755/output.pdf)
