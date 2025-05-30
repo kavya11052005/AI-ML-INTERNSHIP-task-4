@@ -1,1 +1,1 @@
-# AAI-ML-INTERNSHIP-task-4
+# AI-ML-INTERNSHIP-task-4
